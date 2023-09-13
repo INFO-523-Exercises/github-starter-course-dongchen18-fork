@@ -1,0 +1,12 @@
+---
+title: "Github Starter Course"
+author: "Dong Chen"
+date: "2023-09-11"
+output: html_document
+---
+
+## what I have learned 
+I have learned the difference between Git and Github. I have a better understanding of the work flow in the Github and how to create and edit the profile README. I am also more familiar with the terms in Github.
+
+## What I am still confused about
+I still need to improve my capability of working with Gethub branches. 
